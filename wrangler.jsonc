@@ -1,5 +1,5 @@
 {
-  "name": "worker-clover",
+  "name": "clover",
   "compatibility_date": "2025-12-14",
   "assets": {
     "directory": "./_site"
